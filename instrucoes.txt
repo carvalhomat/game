@@ -1,0 +1,4 @@
+"famoso jogo da cobrinha"
+
+Biblioteca curses incluida caso seja necessario.
+
